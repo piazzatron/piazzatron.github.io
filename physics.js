@@ -138,6 +138,6 @@ Simulator.prototype.config = {
 	g: 200,
 	// color: "#C9CBFF",
 	color: "#FFFFFF",
-	radius: 5,
+	radius: 2,
 	softening: 5000
 }
